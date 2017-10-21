@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy Sudoku", "Easy Sudoku\Easy Sudoku.csproj", "{CCF6FFBD-F873-415F-80FD-80A50D44845B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medium Sudoku", "Medium Sudoku\Medium Sudoku.csproj", "{B7293AC5-27BC-4EF0-B1C5-5C3518442564}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextAdventure", "TextAdventure\TextAdventure.csproj", "{C79EC68E-6E96-4980-9310-14BB2BDE988C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hangman", "Hangman\Hangman.csproj", "{751831E1-79CC-4F52-91F8-9A8BD19A4F83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiceSimulator", "DiceSimulator\DiceSimulator.csproj", "{3E13A4A1-767F-45A3-93C3-C8F976A29814}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyCipher", "EasyCipher\EasyCipher.csproj", "{1AFBE43E-2FFA-411A-B736-6B8E5ED7EDA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCF6FFBD-F873-415F-80FD-80A50D44845B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCF6FFBD-F873-415F-80FD-80A50D44845B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCF6FFBD-F873-415F-80FD-80A50D44845B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCF6FFBD-F873-415F-80FD-80A50D44845B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7293AC5-27BC-4EF0-B1C5-5C3518442564}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7293AC5-27BC-4EF0-B1C5-5C3518442564}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7293AC5-27BC-4EF0-B1C5-5C3518442564}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7293AC5-27BC-4EF0-B1C5-5C3518442564}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C79EC68E-6E96-4980-9310-14BB2BDE988C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C79EC68E-6E96-4980-9310-14BB2BDE988C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C79EC68E-6E96-4980-9310-14BB2BDE988C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C79EC68E-6E96-4980-9310-14BB2BDE988C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{751831E1-79CC-4F52-91F8-9A8BD19A4F83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{751831E1-79CC-4F52-91F8-9A8BD19A4F83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{751831E1-79CC-4F52-91F8-9A8BD19A4F83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{751831E1-79CC-4F52-91F8-9A8BD19A4F83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E13A4A1-767F-45A3-93C3-C8F976A29814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E13A4A1-767F-45A3-93C3-C8F976A29814}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E13A4A1-767F-45A3-93C3-C8F976A29814}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E13A4A1-767F-45A3-93C3-C8F976A29814}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AFBE43E-2FFA-411A-B736-6B8E5ED7EDA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AFBE43E-2FFA-411A-B736-6B8E5ED7EDA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AFBE43E-2FFA-411A-B736-6B8E5ED7EDA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AFBE43E-2FFA-411A-B736-6B8E5ED7EDA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B3A02BE-BE05-4E33-AFB5-18D4C0C4D2D9}
+	EndGlobalSection
+EndGlobal
